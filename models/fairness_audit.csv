@@ -1,0 +1,4 @@
+Outcome,Kind of outcome,UK rate (%),Non-UK rate (%),Parity difference (points),Disparate impact ratio,Margin of error,Reading
+Loyal Regulars,Favourable (perks),36.72665916760405,34.36293436293436,-2.363724804669687,0.9356400811224701,0.82 to 1.05,No reliable difference
+Lapsed Customers,Unfavourable (less marketing),31.7397825271841,25.482625482625483,-6.25715704455862,0.8028607461566706,0.68 to 0.93,"Small difference, within the four-fifths rule"
+Heavy Returners,Unfavourable (extra scrutiny),3.3558305211848523,4.247104247104247,0.8912737259193948,1.265589611958327,0.77 to 1.87,No reliable difference

@@ -1,0 +1,40 @@
+{
+  "random_state": 42,
+  "features": [
+    "Recency",
+    "Frequency",
+    "Monetary",
+    "ProductsPerOrder",
+    "AvgUnitPrice",
+    "Tenure",
+    "ReturnRate"
+  ],
+  "groups_scored": [
+    2,
+    10
+  ],
+  "groups_usable": [
+    3,
+    6
+  ],
+  "winner": "K-Means (4 groups)",
+  "kmeans": {
+    "n_clusters": 4,
+    "n_init": 20,
+    "random_state": 42
+  },
+  "hierarchical": {
+    "n_clusters": 4,
+    "linkage": "ward"
+  },
+  "dbscan": {
+    "eps": 1.5,
+    "min_samples": 7
+  },
+  "segment_names": {
+    "3": "Heavy Returners",
+    "1": "Loyal Regulars",
+    "0": "Lapsed Customers",
+    "2": "New Customers"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "random_state": 42,
+  "reference_date": "2011-12-10",
+  "candidate_features": [
+    "Recency",
+    "Frequency",
+    "Monetary",
+    "AvgOrderValue",
+    "TotalUnits",
+    "UniqueProducts",
+    "ProductsPerOrder",
+    "AvgUnitPrice",
+    "Tenure",
+    "ReturnRate"
+  ],
+  "selected_features": [
+    "Recency",
+    "Frequency",
+    "Monetary",
+    "ProductsPerOrder",
+    "AvgUnitPrice",
+    "Tenure",
+    "ReturnRate"
+  ],
+  "cap_percentile": 0.99,
+  "caps": {
+    "Recency": 726.0,
+    "Frequency": 46.0,
+    "Monetary": 28631.081399999894,
+    "AvgOrderValue": 1907.1060539130353,
+    "TotalUnits": 16727.63999999995,
+    "UniqueProducts": 502.97999999999956,
+    "ProductsPerOrder": 88.53636363636343,
+    "AvgUnitPrice": 7.204526330962898,
+    "Tenure": 738.0,
+    "ReturnRate": 0.39465173409307264
+  },
+  "log_features": [
+    "Frequency",
+    "Monetary",
+    "AvgOrderValue",
+    "TotalUnits",
+    "UniqueProducts",
+    "ProductsPerOrder",
+    "AvgUnitPrice",
+    "ReturnRate"
+  ],
+  "correlation_threshold": 0.85
+}

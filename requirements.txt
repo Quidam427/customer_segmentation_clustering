@@ -1,0 +1,15 @@
+# Tested with Python 3.14 on Windows 11
+pandas==3.0.2
+numpy==2.4.0
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.8
+openpyxl==3.1.5
+shap==0.53.0
+umap-learn==0.5.12
+joblib==1.5.3
+
+# Running the notebooks and exporting the slides
+notebook==7.5.1
+ipykernel==7.3.0
+nbconvert==7.16.6

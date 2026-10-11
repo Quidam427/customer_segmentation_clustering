@@ -1,0 +1,22 @@
+# Fast-loading copy of the raw data. Rebuilt automatically from the Excel file on first run.
+data/raw/*.pkl
+
+# Output of `python -m src.run_pipeline`
+data/processed/customer_segments_from_script.csv
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor, operating system and Office lock files
+.vscode/
+.claude/
+.DS_Store
+Thumbs.db
+~$*
+
+# Course assignment text, kept locally only
+docs/
