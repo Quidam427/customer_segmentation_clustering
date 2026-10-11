@@ -103,7 +103,7 @@ It is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0),
 
 > Chen, D., Sain, S. L., & Guo, K. (2012). Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining. *Journal of Database Marketing & Customer Strategy Management*, 19(3), 197–208.
 
-## license
+## License
 
 The code in this repository is released under the MIT license (see `LICENSE`). The dataset keeps its own CC BY 4.0 license.
 
