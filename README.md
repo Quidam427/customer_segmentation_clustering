@@ -30,7 +30,7 @@ The Silhouette Score is modest. The customers form a continuous range, not separ
 ├── models/           Trained models, settings, score tables and the fairness audit
 ├── presentations/    Technical deck (Jupyter slides) and business deck (PowerPoint)
 ├── requirements.txt  Python packages and versions
-└── LICENSE           MIT licence for the code
+└── LICENSE           MIT license for the code
 ```
 
 ## What is in the notebook
@@ -103,9 +103,9 @@ It is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0),
 
 > Chen, D., Sain, S. L., & Guo, K. (2012). Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining. *Journal of Database Marketing & Customer Strategy Management*, 19(3), 197–208.
 
-## Licence
+## License
 
-The code in this repository is released under the MIT licence (see `LICENSE`). The dataset keeps its own CC BY 4.0 licence.
+The code in this repository is released under the MIT license (see `LICENSE`). The dataset keeps its own CC BY 4.0 license.
 
 ## Limitations
 
